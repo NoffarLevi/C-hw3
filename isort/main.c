@@ -5,7 +5,7 @@
 #define	ARRAYSIZE 4
 int ARRAY [] ={1,3,6,4};
 int* pointer1 = ARRAY;
-#define  SHIFTBY 2 
+#define  SHIFTBY 2  /* choose #ofElements you want to shift */
 
 #define ARRSIZE 50
 int ARR[ARRSIZE]={0};
